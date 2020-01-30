@@ -11,3 +11,5 @@ The scStratify can plot 3 figures.
 1. the distribution of SS_PLS2 metric of the case cells, which indicates the distribution of the biological signal contained in the case cells.
 2. the cell transition velocity scatter plot, which demonstrates the trends of cell state transition.
 3. the activated GSEA cell function terms of differnt groups of case cells, which illustates the cell function transition from less active to more active cells.
+
+NOTES: The 'GSEAanalysis' function requires python and a webdriver to automatically conduct GSEA analysis. The intall instructions for windows and Mac systems are shown in the 'python_Documentation_Windows.docx' and 'python_Documentation_Mac.docx', respectively.
