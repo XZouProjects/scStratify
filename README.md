@@ -3,7 +3,7 @@ scStratify - a single-cell RNA-seq data interpretation software
 
 1. intall python
 2. intall the chrome webdriver if necessary
-3. install the scStratify R package: scStratify_0.1.36.tar.gz
+3. install the scStratify R package: scStratify_0.1.37.tar.gz
 4. download the demo data: scStratify demo data.zip
 5. run the script: run_demo_scStratify.R
 
